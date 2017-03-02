@@ -1,0 +1,10 @@
+C:\Development\PortalUsersImportExe\PortalUsersImportExe\bin\Debug\PortalUsersImportExe.exe.config
+C:\Development\PortalUsersImportExe\PortalUsersImportExe\bin\Debug\PortalUsersImportExe.exe
+C:\Development\PortalUsersImportExe\PortalUsersImportExe\bin\Debug\PortalUsersImportExe.pdb
+C:\Development\PortalUsersImportExe\PortalUsersImportExe\obj\Debug\PortalUsersImportExe.exe
+C:\Development\PortalUsersImportExe\PortalUsersImportExe\obj\Debug\PortalUsersImportExe.pdb
+C:\Development\PortalUsersImportExe\PortalUsersImportExe\bin\Debug\System.Net.Http.Formatting.dll
+C:\Development\PortalUsersImportExe\PortalUsersImportExe\bin\Debug\System.Net.Http.Formatting.xml
+C:\Development\PortalUsersImportExe\PortalUsersImportExe\bin\Debug\Newtonsoft.Json.dll
+C:\Development\PortalUsersImportExe\PortalUsersImportExe\bin\Debug\Newtonsoft.Json.xml
+C:\Development\PortalUsersImportExe\PortalUsersImportExe\obj\Debug\PortalUsersImportExe.csprojResolveAssemblyReference.cache
